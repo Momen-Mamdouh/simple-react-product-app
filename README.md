@@ -1,6 +1,12 @@
 # simple-react-product-app
 This app covers how to fetch and display data comes from public API with some of ides for good UX handling al CRUDs
 
+### 📸 Screenshot:
+![Homepage](./screenshots/HomePage.png)
+![Productspage](./screenshots/PorductsPage.png)
+![Cartpage](./screenshots/CartPage.png)
+![Footer](./screenshots/Footer.png)
+
 # Tech Stack Used:
 1- Shadcn for as UI_Framework which gives good styles with perfect accessibility
 2- axios for fetching data and get good Response.
